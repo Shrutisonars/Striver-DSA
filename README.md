@@ -1,2 +1,2 @@
 # Striver-DSA
-This Includes The All DSA Codes dfjbfdhbhhdbg
+This Includes The All DSA Codes of Leetcode and al platforms
